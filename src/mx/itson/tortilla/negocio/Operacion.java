@@ -13,6 +13,8 @@ public class Operacion {
     */
     
  public String[] separar(String oracion){     
+  //hola a todos jejeje   
+     
     String[] resultado = oracion.split("-");
      
     return resultado;
